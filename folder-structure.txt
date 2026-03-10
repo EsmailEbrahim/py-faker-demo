@@ -1,0 +1,27 @@
+py-faker-demo/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── folder-structure.txt
+├── .gitignore
+├── generate_dataset.py
+│
+├── examples/
+│   ├── __init__.py
+│   ├── basic_usage.py
+│   ├── credentials_generator.py
+│   ├── csv_export.py
+│   ├── ecommerce_example.py
+│   ├── generate_users.py
+│   ├── json_export.py
+│   ├── large_dataset.py
+│   ├── locale_example.py
+│   ├── pandas_dataset.py
+│   ├── relational_dataset.py
+│   └── seed_example.py
+│
+└── generated_data/
+    ├── fake_users.csv
+    ├── generated.csv
+    └── users.json

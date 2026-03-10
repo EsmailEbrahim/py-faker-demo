@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Gina Miller",
+        "email": "gomezjoe@example.net",
+        "username": "tford",
+        "address": "USS Diaz\nFPO AP 55244",
+        "phone": "(738)625-9279x1249"
+    },
+    {
+        "name": "Juan Stewart",
+        "email": "dmorrow@example.org",
+        "username": "edward13",
+        "address": "89884 Timothy Unions Suite 082\nSouth Christopherhaven, IA 63060",
+        "phone": "+1-357-464-6509x5635"
+    },
+    {
+        "name": "Omar Carson",
+        "email": "aaronwilson@example.net",
+        "username": "johnwheeler",
+        "address": "0364 Hansen Mission Suite 341\nNorth Maureenport, AK 68352",
+        "phone": "(376)349-4264x545"
+    },
+    {
+        "name": "Austin Cisneros",
+        "email": "millerbrenda@example.net",
+        "username": "xnguyen",
+        "address": "25730 Christopher Overpass Suite 354\nTeresatown, KY 32798",
+        "phone": "001-659-780-6708x80190"
+    },
+    {
+        "name": "Susan Smith",
+        "email": "gharris@example.net",
+        "username": "carlos60",
+        "address": "9037 Matthew Cove Suite 865\nSouth Adrian, AR 95092",
+        "phone": "785.988.1530x3247"
+    },
+    {
+        "name": "Jamie Wang",
+        "email": "anthonyhendrix@example.com",
+        "username": "osbornejessica",
+        "address": "08130 Wallace Ville Apt. 051\nSusanside, KS 87273",
+        "phone": "543-469-6327x175"
+    },
+    {
+        "name": "Kevin Fry",
+        "email": "simpsonmelissa@example.com",
+        "username": "gloverkim",
+        "address": "Unit 4963 Box 6559\nDPO AP 39503",
+        "phone": "(523)275-4034"
+    },
+    {
+        "name": "Kelly Wright",
+        "email": "hinesann@example.org",
+        "username": "christinawalsh",
+        "address": "11877 Schneider Vista\nLake Erica, KY 65166",
+        "phone": "680-681-6788"
+    },
+    {
+        "name": "Nicole Stephenson",
+        "email": "brucecharlotte@example.com",
+        "username": "pamelamoore",
+        "address": "290 Joseph Haven\nAnthonyfurt, AL 97261",
+        "phone": "(739)969-1018"
+    },
+    {
+        "name": "Julie Duncan",
+        "email": "daniel80@example.org",
+        "username": "stephanie98",
+        "address": "1051 Wilson Locks Apt. 359\nHammondside, NE 84995",
+        "phone": "001-303-527-3179x169"
+    }
+]
